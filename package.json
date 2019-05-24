@@ -1,0 +1,26 @@
+{
+  "name": "markdown-it-notes",
+  "version": "0.0.1",
+  "description": "Extended Markdown flavour to aid note taking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seniorpreacher/markdown-it-notes.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Daniel Salamon <d@nielsalamon.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seniorpreacher/markdown-it-notes/issues"
+  },
+  "homepage": "https://github.com/seniorpreacher/markdown-it-notes#readme",
+  "dependencies": {
+    "markdown-it": "^8.4.2",
+    "markdown-it-container": "^2.0.0"
+  }
+}
