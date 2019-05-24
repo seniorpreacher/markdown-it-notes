@@ -1,0 +1,20 @@
+{
+  "name": "markdown-it-notes",
+  "description": "Extended Markdown flavour to aid note taking.",
+  "main": "index.js",
+  "authors": [
+    "Daniel Salamon <d@nielsalamon.me>"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "markdown"
+  ],
+  "homepage": "https://github.com/seniorpreacher/markdown-it-notes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
