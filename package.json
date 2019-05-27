@@ -4,13 +4,15 @@
   "description": "Extended Markdown flavour to aid note taking.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/seniorpreacher/markdown-it-notes.git"
   },
   "keywords": [
+    "markdown-it-plugin",
+    "markdown-it",
     "markdown"
   ],
   "author": "Daniel Salamon <d@nielsalamon.me>",
@@ -19,8 +21,16 @@
     "url": "https://github.com/seniorpreacher/markdown-it-notes/issues"
   },
   "homepage": "https://github.com/seniorpreacher/markdown-it-notes#readme",
-  "dependencies": {
+  "devDependencies": {
+    "browserify": "*",
+    "coveralls": "^3.0.3",
+    "eslint": "^5.16.0",
+    "eslint-config-google": "^0.13.0",
+    "istanbul": "*",
     "markdown-it": "^8.4.2",
-    "markdown-it-container": "^2.0.0"
+    "markdown-it-testgen": "~0.1.0",
+    "mocha": "*",
+    "request": "*",
+    "uglify-es": "*"
   }
 }
