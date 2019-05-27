@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-notes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extended Markdown flavour to aid note taking.",
   "main": "index.js",
   "scripts": {
