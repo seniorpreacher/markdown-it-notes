@@ -27,7 +27,7 @@
     "eslint": "^5.16.0",
     "eslint-config-google": "^0.13.0",
     "istanbul": "*",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "markdown-it-testgen": "~0.1.0",
     "mocha": "*",
     "request": "*",
